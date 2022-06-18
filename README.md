@@ -1,7 +1,6 @@
 ### Olá Seja Bem vindo(a), eu sou o Jack Junior 👋 
 - 🔭 Conheça a <a href="https://estudosads.com.br" target="_blank">Estudos ADS</a>, um site voltado a trazer informações de cursos funcionais (que cumprem o que promete) a estudantes e entusiastas de TI.
 
-<div background-collor="pink">
   
 <div align="center">
   <a href="https://github.com/jackjr1">
@@ -35,7 +34,6 @@
   <a href="https://www.linkedin.com/in/jack-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-</div>
 
 
 
