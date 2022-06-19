@@ -1,7 +1,7 @@
 ### Olá Seja Bem vindo(a), eu sou o Jack Junior 👋 
 - 🔭 Conheça a <a href="https://estudosads.com.br" target="_blank">Estudos ADS</a>, um site voltado a trazer informações de cursos funcionais (que cumprem o que promete) a estudantes e entusiastas de TI.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jackjr1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackjr1&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackjr1&layout=compact&langs_count=7&theme=blue-green"/>
